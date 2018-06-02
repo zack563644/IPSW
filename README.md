@@ -153,10 +153,5 @@
 </div>
 <div class="clearfix">&nbsp;</div>
 <ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-9421549393799412" data-ad-slot="3483797882" data-ad-format="auto"></ins><hr />
-<div class="footer">
-<p><a href="/">canijailbreak.com</a> is <a href="https://github.com/cj123/canijailbreak.com">open source on GitHub</a>. thanks to chpwn for the inspiration. previous information (and more) gathered from <a href="https://www.theiphonewiki.com/wiki/Jailbreak">The iPhone Wiki</a>.</p>
-<p>if you want to use this information in your project, <a href="/jailbreaks.json">check out our API </a></p>
-<a class="btn btn-info" href="https://ipsw.me/">IPSW Downloads can be found here</a>
-<div class="text-center"><br /><br /> <small>built on May 31, 2018 11:51:48 UT</small></div>
+<div class="footer">&nbsp;</div>
 </div>
-iOS 11.3.1</div>
